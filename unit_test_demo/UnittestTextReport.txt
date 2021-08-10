@@ -1,0 +1,13 @@
+test_add (myunittest.Test3) ... ok
+test_minus (myunittest.Test3) ... ok
+test_multi (myunittest.Test3) ... ok
+test_divide (myunittest.Test3) ... ok
+test_add (myunittest.Test3) ... ok
+test_minus (myunittest.Test3) ... ok
+test_multi (myunittest.Test3) ... ok
+test_divide (myunittest.Test3) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.000s
+
+OK

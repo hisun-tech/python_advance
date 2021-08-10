@@ -1,0 +1,17 @@
+digraph ObjectGraph {
+  node[shape=box, style=filled, fillcolor=white];
+  o2102191515912[fontcolor=red];
+  o2102191515912[label="list\n4 items"];
+  o2102191515912[fillcolor="0,0,1"];
+  o2102158756744 -> o2102191515912 [label="a",weight=2];
+  o2102188744328 -> o2102191515912;
+  o2102158756744[label="dict\n14 items"];
+  o2102158756744[fillcolor="0,0,0.766667"];
+  o2102158757064 -> o2102158756744 [label="__dict__",weight=10];
+  o2102188744328[label="list\n4 items"];
+  o2102188744328[fillcolor="0,0,0.766667"];
+  o2102158756744 -> o2102188744328 [label="b",weight=2];
+  o2102191515912 -> o2102188744328;
+  o2102158757064[label="module\n__main__"];
+  o2102158757064[fillcolor="0.3,1,0.533333"];
+}
